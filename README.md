@@ -51,3 +51,4 @@ BitFutures/
 ## 📝 License
 
 MIT License - Developed by Richiey1
+## Development Guide
